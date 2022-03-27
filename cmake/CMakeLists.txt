@@ -1,4 +1,4 @@
-### Search for all property of a package given a name ###
+### Search for all properties of a package given the name ###
 
 function (getListOfVarsStartingWith _prefix _varResult)
     get_cmake_property(_vars VARIABLES)
