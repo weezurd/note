@@ -1,5 +1,6 @@
-**Good C programming blog**
-    - [u/dainasol C_Programming thread](https://www.reddit.com/r/C_Programming/comments/16e7thg/what_are_some_good_blogs_on_programming_in_c_you/)
+**C programming**
+- Blog:
+    - [u/dainasol](https://www.reddit.com/r/C_Programming/comments/16e7thg/what_are_some_good_blogs_on_programming_in_c_you/)
 
 **Random opinion**
 - Rust vs Go at scale:
