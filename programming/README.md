@@ -1,6 +1,7 @@
 **C programming**
-
-![alt text](./images/u7j1d3bwdut71.webp)
+<p align="center" width="100%">
+    <img width="33%" src="./images/u7j1d3bwdut71.webp">
+</p>
 
 - Blog:
     - [u/dainasol](https://www.reddit.com/r/C_Programming/comments/16e7thg/what_are_some_good_blogs_on_programming_in_c_you/)
