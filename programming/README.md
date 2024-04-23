@@ -7,6 +7,8 @@
     - [u/dainasol](https://www.reddit.com/r/C_Programming/comments/16e7thg/what_are_some_good_blogs_on_programming_in_c_you/)
 - Course:
     - [CS255](https://www.cs.emory.edu/~cheung/Courses/255/Syllabus/syl.html#CURRENT): CS in general with a comprehensive C tutorial
+- Reddis post:
+    - [u/libdsc](https://www.reddit.com/r/C_Programming/comments/1c9z0cb/i_created_my_first_c_library_comments_andor/)
 ---
 **Random opinion**
 - Rust vs Go at scale:
