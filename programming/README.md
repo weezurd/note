@@ -12,7 +12,7 @@
 ---
 **Operating system**
 - Course:
-    - [6.1810: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2023/index.html): OS course with learn by doing motto
+    - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
 
 **Random opinion**
 - Rust vs Go at scale:
