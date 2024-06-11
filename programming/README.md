@@ -10,10 +10,12 @@
 - Reddis post:
     - [u/libdsc](https://www.reddit.com/r/C_Programming/comments/1c9z0cb/i_created_my_first_c_library_comments_andor/)
 ---
-**Operating system**
+**Kernel & Operating system**
+- Blog:
+    - [sam4k](https://sam4k.com/): pwning kernels and os internals
 - Course:
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
-
+---
 **Random opinion**
 - Rust vs Go at scale:
     - [u/lightmatter501](https://www.reddit.com/r/golang/comments/10ova9v/comment/j6hxy91/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
