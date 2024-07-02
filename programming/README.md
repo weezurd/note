@@ -1,3 +1,7 @@
+**Assembly**
+- Course:
+  - [Encoding Real x86 Instructions](http://www.c-jump.com/CIS77/CPU/x86/lecture.html)
+---
 **C programming**
 <p align="center" width="100%">
     <img width="33%" src="./images/u7j1d3bwdut71.webp">
