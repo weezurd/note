@@ -17,6 +17,7 @@
 **Kernel & Operating system**
 - Blog:
     - [sam4k](https://sam4k.com/): pwning kernels and os internals
+    - [yarchive](https://yarchive.net/comp/index.html): OG
 - Course:
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
 ---
