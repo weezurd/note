@@ -22,6 +22,8 @@
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
 ---
 **Hardware & Emulation**
+- Blog:
+    - [ctf.re](https://ctf.re/): cool PCIe blogs
 - Projects:
     - [qemu-avr32](https://fgoehler.com/projects/qemu-avr32/): qemu internal with practical example. Basically author's master thesis.
 ---
