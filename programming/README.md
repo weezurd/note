@@ -24,6 +24,7 @@
 **Hardware & Emulation**
 - Blog:
     - [ctf.re](https://ctf.re/): cool PCIe blogs
+    - [naveenaidu](https://naveenaidu.dev/blog): comprehensive PCI & PCIe guide
 - Projects:
     - [qemu-avr32](https://fgoehler.com/projects/qemu-avr32/): qemu internal with practical example. Basically author's master thesis.
 ---
