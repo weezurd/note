@@ -22,6 +22,10 @@
 - Course:
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
 ---
+**Networking**
+- Website:
+  - [Linux Advanced Routing & Traffic Control HOWTO](https://lartc.org/howto): linux has very advanced Routing, filtering and traffic shaping options. This site attempts to document how to configure and use these features.
+---
 **Hardware & Emulation**
 - Blog:
     - [ctf.re](https://ctf.re/): cool PCIe blogs
