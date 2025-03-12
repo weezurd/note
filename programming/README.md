@@ -23,6 +23,8 @@
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
 ---
 **Networking**
+- Blog:
+  - [sobyte.net](https://www.sobyte.net/post/2022-10/linux-net-snd-rcv/): journey of network packet. kept forgetting about this good site lol   
 - Website:
   - [Linux Advanced Routing & Traffic Control HOWTO](https://lartc.org/howto): linux has very advanced Routing, filtering and traffic shaping options. This site attempts to document how to configure and use these features.
 ---
