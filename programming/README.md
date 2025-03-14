@@ -14,6 +14,10 @@
 - Reddis post:
     - [u/libdsc](https://www.reddit.com/r/C_Programming/comments/1c9z0cb/i_created_my_first_c_library_comments_andor/)
 ---
+**Go programming**
+- Blog:
+  - [gopheracademy](https://gopheracademy.com/)
+---
 **Kernel & Operating system**
 - Blog:
     - [sam4k](https://sam4k.com/): pwning kernels and os internals
