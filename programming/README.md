@@ -17,6 +17,7 @@
 **Go programming**
 - Blog:
   - [gopheracademy](https://gopheracademy.com/)
+  - [manual memory management](https://hypermode.com/blog/manual-memory-management-golang-jemalloc)
 ---
 **Kernel & Operating system**
 - Blog:
