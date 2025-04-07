@@ -19,6 +19,10 @@
   - [gopheracademy](https://gopheracademy.com/)
   - [manual memory management](https://hypermode.com/blog/manual-memory-management-golang-jemalloc)
 ---
+**Rust programming**
+- Blog:
+  - [Real learning curve](https://www.integralist.co.uk/posts/rust-ownership/)
+
 **Kernel & Operating system**
 - Blog:
     - [sam4k](https://sam4k.com/): pwning kernels and os internals
