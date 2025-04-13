@@ -56,6 +56,7 @@
     - [u/IanArcad](https://www.reddit.com/r/golang/comments/10ova9v/comment/j6kwxjz/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 - [/dev vs /sys](https://unix.stackexchange.com/questions/176215/difference-between-dev-and-sys)
 - [Kubernetes Failure Stories](https://k8s.af/)
+- [Core algorithms in action](https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773)
 ---
 **For a day when I feel clueless and need some advice**
 - [choose-boring-technology](https://mcfunley.com/choose-boring-technology)
