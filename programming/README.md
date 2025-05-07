@@ -30,6 +30,8 @@
     - [davidaugustat](https://davidaugustat.com/linux/how-to-compile-linux-kernel-on-ubuntu): compile Linux on Ubuntu 22.04
 - Course:
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
+- Project:
+    - [https://github.com/sched-ext/scx](scx): ebpf-powered library to customize linux scheduler
 ---
 **Networking**
 - Blog:
