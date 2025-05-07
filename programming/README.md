@@ -31,7 +31,7 @@
 - Course:
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
 - Project:
-    - [https://github.com/sched-ext/scx](scx): ebpf-powered library to customize linux scheduler
+    - [scx](https://github.com/sched-ext/scx): ebpf-powered library to customize linux scheduler
 ---
 **Networking**
 - Blog:
