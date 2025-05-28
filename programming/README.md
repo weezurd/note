@@ -37,7 +37,7 @@
 - Blog:
   - [sobyte.net](https://www.sobyte.net/post/2022-10/linux-net-snd-rcv/): journey of network packet. Kept forgetting about this good site lol   
 - Website:
-  - [Linux Advanced Routing & Traffic Control HOWTO](https://lartc.org/howto): linux has very advanced Routing, filtering and traffic shaping options. This site attempts to document how to configure and use these features.
+  - [Linux Advanced Routing & Traffic Control HOWTO](https://lartc.org/howto): linux has very advanced routing, filtering and traffic shaping options. This site attempts to document how to configure and use these features.
 ---
 **Hardware & Emulation**
 - Blog:
