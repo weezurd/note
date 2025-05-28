@@ -61,5 +61,5 @@
 - [Core algorithms in action](https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773)
 - [AWS internal architecture](https://aws.amazon.com/builders-library)
 ---
-**For a day when I feel clueless and need some advice**
+**For a day when I feel clueless and need an advice**
 - [choose-boring-technology](https://mcfunley.com/choose-boring-technology)
