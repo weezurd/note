@@ -10,7 +10,7 @@
 - Blog:
     - [u/dainasol](https://www.reddit.com/r/C_Programming/comments/16e7thg/what_are_some_good_blogs_on_programming_in_c_you/)
 - Course:
-    - [CS255](https://www.cs.emory.edu/~cheung/Courses/255/Syllabus/syl.html#CURRENT): CS in general with a comprehensive C tutorial
+    - [CS255](https://www.cs.emory.edu/~cheung/Courses/255/Syllabus/syl.html#CURRENT): CS in general with a comprehensive C tutorial.
 - Reddis post:
     - [u/libdsc](https://www.reddit.com/r/C_Programming/comments/1c9z0cb/i_created_my_first_c_library_comments_andor/)
 ---
@@ -27,30 +27,31 @@
 - Blog:
     - [sam4k](https://sam4k.com/): pwning kernels and os internals
     - [yarchive](https://yarchive.net/comp/index.html): OG
-    - [davidaugustat](https://davidaugustat.com/linux/how-to-compile-linux-kernel-on-ubuntu): compile Linux on Ubuntu 22.04
+    - [davidaugustat](https://davidaugustat.com/linux/how-to-compile-linux-kernel-on-ubuntu): compile Linux on Ubuntu 22.04.
 - Course:
-    - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto
+    - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto.
 - Project:
-    - [scx](https://github.com/sched-ext/scx): ebpf-powered library to customize linux scheduler
+    - [scx](https://github.com/sched-ext/scx): ebpf-powered library to customize linux scheduler.
+    - [lfs](https://www.linuxfromscratch.org/): linux from scratch.
 ---
 **Networking**
 - Blog:
-  - [sobyte.net](https://www.sobyte.net/post/2022-10/linux-net-snd-rcv/): journey of network packet. Kept forgetting about this good site lol   
+  - [sobyte.net](https://www.sobyte.net/post/2022-10/linux-net-snd-rcv/): journey of network packet. Kept forgetting about this good site lol. 
 - Website:
   - [Linux Advanced Routing & Traffic Control HOWTO](https://lartc.org/howto): linux has very advanced routing, filtering and traffic shaping options. This site attempts to document how to configure and use these features.
 ---
 **Hardware & Emulation**
 - Blog:
-    - [ctf.re](https://ctf.re/): cool PCIe blogs
-    - [naveenaidu](https://naveenaidu.dev/blog): comprehensive PCI & PCIe guide
+    - [ctf.re](https://ctf.re/): cool PCIe blogs.
+    - [naveenaidu](https://naveenaidu.dev/blog): comprehensive PCI & PCIe guide.
 - Projects:
     - [qemu-avr32](https://fgoehler.com/projects/qemu-avr32/): qemu internal with practical example. Basically author's master thesis.
 ---
 **Database**
 - Blog:
-    - [domas](https://dom.as/domas/): database engineer @facebook && developer @wikipedia
+    - [domas](https://dom.as/domas/): database engineer @facebook && developer @wikipedia.
     - [aphyr](https://aphyr.com): Jepsen author's blog. Mainly deal with distributed problem.
-      - [jepsen.io](https://jepsen.io/): detail analysis of different databases.   
+      - [jepsen.io](https://jepsen.io/): detail analysis of different databases.
 ---
 **Miscellaneous**
 - Rust vs Go at scale:
