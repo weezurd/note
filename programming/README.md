@@ -60,7 +60,7 @@
 - [Kubernetes Failure Stories](https://k8s.af/)
 - [Core algorithms in action](https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773)
 - [AWS internal architecture](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=level%23400)
-- [Formal Modeling](https://elliotswart.github.io/pragmaticformalmodeling/): very useful for modeling distributed system. Leslie Lamport, TLA+?
+- [Formal Modeling](https://elliotswart.github.io/pragmaticformalmodeling/): very useful for modeling and verifying distributed system.
 ---
 **For a day when I feel clueless and need an advice**
 - [choose-boring-technology](https://mcfunley.com/choose-boring-technology)
