@@ -25,9 +25,10 @@
 ---
 **Kernel & Operating system**
 - Blog:
-    - [sam4k](https://sam4k.com/): pwning kernels and os internals
-    - [yarchive](https://yarchive.net/comp/index.html): OG
+    - [sam4k](https://sam4k.com/): pwning kernels and os internals.
+    - [yarchive](https://yarchive.net/comp/index.html): OG.
     - [davidaugustat](https://davidaugustat.com/linux/how-to-compile-linux-kernel-on-ubuntu): compile Linux on Ubuntu 22.04.
+    - [xenoscr](https://blog.xenoscr.net/2021/09/06/Exploring-Virtual-Memory-and-Page-Structures.html): how to translate from virtual to physical address with PML4 scheme. 
 - Course:
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto.
 - Project:
