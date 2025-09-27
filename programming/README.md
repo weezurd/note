@@ -63,6 +63,7 @@
 - [Core algorithms in action](https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773)
 - [AWS internal architecture](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=level%23400)
 - [Formal modeling for software engineer, not mathemaniac](https://elliotswart.github.io/pragmaticformalmodeling/)
+- [How to detect tcp close](https://users.rust-lang.org/t/how-to-detect-tcp-close/50925)
 ---
 **For a day when I feel clueless and need an advice**
 - [choose-boring-technology](https://mcfunley.com/choose-boring-technology)
