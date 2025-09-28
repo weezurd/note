@@ -1,6 +1,8 @@
 **Assembly**
 - Course:
   - [Encoding Real x86 Instructions](http://www.c-jump.com/CIS77/CPU/x86/lecture.html)
+- Blog:
+  - [SIMD csv parser](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
 ---
 **C programming**
 <p align="center" width="100%">
