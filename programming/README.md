@@ -33,6 +33,7 @@
     - [xenoscr](https://blog.xenoscr.net/2021/09/06/Exploring-Virtual-Memory-and-Page-Structures.html): how to translate from virtual to physical address with PML4 scheme. 
 - Course:
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto.
+    - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/introduction/index.html).
 - Project:
     - [scx](https://github.com/sched-ext/scx): ebpf-powered library to customize linux scheduler.
     - [lfs](https://www.linuxfromscratch.org/): linux from scratch.
