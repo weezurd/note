@@ -34,6 +34,7 @@
 - Course:
     - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html): OS course with learn by doing motto.
     - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/introduction/index.html).
+      - Related project: [illusion-rs](https://github.com/memN0ps/illusion-rs)   
 - Project:
     - [scx](https://github.com/sched-ext/scx): ebpf-powered library to customize linux scheduler.
     - [lfs](https://www.linuxfromscratch.org/): linux from scratch.
