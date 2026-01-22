@@ -24,6 +24,7 @@
 **Rust programming**
 - Blog:
   - [Real learning curve](https://www.integralist.co.uk/posts/rust-ownership/)
+  - [kerkour](https://kerkour.com/)
 ---
 **Kernel & Operating system**
 - Blog:
