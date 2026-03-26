@@ -9,3 +9,7 @@
 **Cooking**
 - Blog:
   - [Microwave cooking](https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline)
+---
+**History**
+- Blog:
+  - [Dr. Bret C. Devereaux](https://acoup.blog/)
